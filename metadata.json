@@ -1,0 +1,7 @@
+{
+  "name": "Intuto-V1",
+  "description": "Intuto: An AI-powered tool that takes a PDF as input, converts its content into a presentation, and provides a RAG-enabled chat interface to discuss the document's contents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
