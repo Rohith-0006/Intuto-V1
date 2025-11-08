@@ -62,4 +62,34 @@ https://drive.google.com/file/d/11i-sd-W9jTxbJLdlPYQhtF4hbei47ttK/view?usp=shari
 ---
 
 ## 📦 Project Structure
+/
+├── public/
+├── src/
+│ ├── components/
+│ ├── services/
+│ ├── App.tsx
+│ ├── index.tsx
+│ └── types.ts
+├── index.html
+└── README.md
+
+
+---
+
+## ⚙️ Setup
+
+### Requirements
+Set environment variables:
+
+- `API_KEY` → Gemini API Key  
+- OpenAI TTS Key (recommended to store securely)
+
+### Run
+Serve the project as a static web app. Any simple HTTP server works.
+
+---
+
+## 📜 License
+MIT License.
+
 
