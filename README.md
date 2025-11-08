@@ -2,8 +2,7 @@
 
 Intuto is an intelligent web application that instantly transforms any PDF document into a beautiful, engaging presentation. It leverages the power of Google's Gemini API to not only generate slides with relevant visuals but also provides an interactive, RAG-enabled chat interface to discuss the document's contents.
 
-![Intuto Screenshot](https://i.imgur.com/your-screenshot-here.png) 
-*(Note: Replace with an actual screenshot or GIF of the application)*
+
 
 ---
 
